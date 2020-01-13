@@ -1,11 +1,10 @@
 {
-  "name": "issue-recreation",
+  "name": "possible-ember-issue-reproduction-16503",
   "version": "0.0.0",
-  "private": true,
-  "description": "Small description for issue-recreation goes here",
-  "repository": "",
+  "description": "",
+  "repository": "https://github.com/sethbrasile/possible-ember-issue-reproduction-16503.git",
   "license": "MIT",
-  "author": "",
+  "author": "Seth Brasile",
   "directories": {
     "doc": "doc",
     "test": "tests"
